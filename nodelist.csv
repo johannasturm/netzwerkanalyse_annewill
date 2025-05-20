@@ -1,0 +1,19 @@
+id,name,party,sector,country,type
+ul,Ursula von der Leyen ,CDU,Politik,Deutschland,TRUE
+lk,Lars Klingbeil,SPD,Politik,Deutschland,TRUE
+nr,Norbert Röttgen,CDU,Politik,Deutschland,TRUE
+sw,Sahra Wagenknecht,Die Linke,Politik,Deutschland,TRUE
+cl,Christian Lindner,FDP,Politik,Deutschland,TRUE
+ab,Annalena Baerbock,Die Grünen,Politik,Deutschland,TRUE
+al,Alexander Graf Lambsdorff,FDP,Politik,Deutschland,TRUE
+rh,Robert Habeck,Die Grünen,Poltik,Deutschland,TRUE
+rk,Roderich Kiesewetter,CDU,Politik,Deutschland,TRUE
+CDU,Partei CDU,CDU,Politik,Deutschland,FALSE
+Die Linke,Partei Die Linke,Die Linke,Politik,Deutschland,FALSE
+Die Grünen,Partei Die Grünen,Die Grünen,Politik,Deutschland,FALSE
+FDP,Partei FDP,FDP,Politik,Deutschland,FALSE
+SPD,Partei SPD,SPD,Politik,Deutschland,FALSE
+500,Folge 500,NA,Politik,Deutschland,FALSE
+501,Floge 501,NA,Politik,Deutschland,FALSE
+502,Folge 502,NA,Politik,Deutschland,FALSE
+503,Folge 503,NA,Politik,Deutschland,FALSE
